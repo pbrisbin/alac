@@ -1,1 +1,1 @@
-web: ./dist/build/alac/alac
+web: ./bin/alac
