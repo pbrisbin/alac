@@ -1,0 +1,4 @@
+{
+  "name": "alac",
+  "description": "This is required for heroku docker:release"
+}

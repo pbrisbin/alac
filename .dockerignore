@@ -1,0 +1,7 @@
+*.aes
+*.md
+.git
+.stack-work
+circle.yml
+tags
+test
