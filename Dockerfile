@@ -6,4 +6,4 @@ COPY app /app/user/app
 RUN stack install
 
 # Reduce slug size
-RUN rm -rf /app/user/app/.stack-work
+RUN rm -rf /app/user/.stack-work
