@@ -1,3 +1,5 @@
+This project is inactive and has been **ARCHIVED**.
+
 # Arch Linux Archive Crawler
 
 Provides a (somewhat) nicer interface for https://archive.archlinux.org/,
